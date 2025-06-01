@@ -1,0 +1,14 @@
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.exe
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.deps.json
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.runtimeconfig.json
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.dll
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.pdb
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfoInputs.cache
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfo.cs
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.dll
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\refint\MyAdditionCalculator.dll
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.pdb
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.genruntimeconfig.cache
+C:\Users\pcakh\source\repos\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\ref\MyAdditionCalculator.dll
