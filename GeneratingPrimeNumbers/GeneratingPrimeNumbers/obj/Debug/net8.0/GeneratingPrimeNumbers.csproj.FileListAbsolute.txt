@@ -1,0 +1,14 @@
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\bin\Debug\net8.0\GeneratingPrimeNumbers.exe
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\bin\Debug\net8.0\GeneratingPrimeNumbers.deps.json
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\bin\Debug\net8.0\GeneratingPrimeNumbers.runtimeconfig.json
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\bin\Debug\net8.0\GeneratingPrimeNumbers.dll
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\bin\Debug\net8.0\GeneratingPrimeNumbers.pdb
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.AssemblyInfo.cs
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.dll
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\refint\GeneratingPrimeNumbers.dll
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.pdb
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\GeneratingPrimeNumbers.genruntimeconfig.cache
+C:\Users\pcakh\source\repos\GeneratingPrimeNumbers\GeneratingPrimeNumbers\obj\Debug\net8.0\ref\GeneratingPrimeNumbers.dll
