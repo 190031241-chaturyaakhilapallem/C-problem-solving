@@ -1,0 +1,15 @@
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\bin\Debug\net8.0\Guess the Number while loop.exe
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\bin\Debug\net8.0\Guess the Number while loop.deps.json
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\bin\Debug\net8.0\Guess the Number while loop.runtimeconfig.json
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\bin\Debug\net8.0\Guess the Number while loop.dll
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\bin\Debug\net8.0\Guess the Number while loop.pdb
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.AssemblyInfoInputs.cache
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.AssemblyInfo.cs
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.csproj.CoreCompileInputs.cache
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.sourcelink.json
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.dll
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\refint\Guess the Number while loop.dll
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.pdb
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\Guess the Number while loop.genruntimeconfig.cache
+C:\Users\pcakh\source\repos\LoopsBasics\LoopsBasics\obj\Debug\net8.0\ref\Guess the Number while loop.dll
